@@ -21,7 +21,8 @@ JavaFX application simulating paper mill operations
 - Used SceneBuilder, tables, dropdowns and radio buttons
 
 🔹**Algorithm Practical Projects**
-  
+Python projects solving data structures & algorithm problems
+- Focued on clearly and reusable code
 
 <!--
 **ridwanHasan-khandakar/ridwanHasan-khandakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
