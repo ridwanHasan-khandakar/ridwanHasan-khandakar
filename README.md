@@ -21,6 +21,10 @@ JavaFX application simulating paper mill operations
 - Used SceneBuilder, tables, dropdowns and radio buttons
 
 🔹**Algorithm Practical Projects**
+Python implementation of the hybrid IntroSort algorithm in Google Colab
+- Combines QuickSort, HeapSort and InsertionSort
+- Focused on performance and worst-case optimization
+- [View Notebook](https://github.com/ridwanHasan-khandakar/IntroSort-Algorithm)
 Python projects solving data structures & algorithm problems
 - Focued on clearly and reusable code
 ### Contact
