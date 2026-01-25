@@ -30,10 +30,6 @@ Python projects solving data structures & algorithm problems
 ### Contact
 - Email: ridwan_rahin@proton.me
 
-### 📊 GitHub Stats
-
-![Rahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridwanHasan-khandakar&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanHasan-khandakar&layout=compact&theme=dark)
 
 
 <!--
